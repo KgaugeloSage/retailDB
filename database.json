@@ -149,6 +149,64 @@
       "name": "Exact",
       "type": "Apparel"
    },
-    
-    
+    {
+      "id": "31",
+      "name": "Gold Reef City",
+      "type": "Hospitality"
+   },
+    {
+      "id": "32",
+      "name": "Carnival City",
+      "type": "Hospitality"
+   },
+    {
+      "id": "33",
+      "name": "iJump",
+      "type": "Hospitality"
+   },
+    {
+      "id": "34",
+      "name": "Mc Donalds",
+      "type": "Hospitality"
+   },
+    {
+      "id": "35",
+      "name": "Rocca Mamas",
+      "type": "Hospitality"
+   },
+    {
+      "id": "36",
+      "name": "KFC",
+      "type": "Hospitality"
+   },
+    {
+      "id": "37",
+      "name": "Debonirs",
+      "type": "Hospitality"
+   },
+    {
+      "id": "38",
+      "name": "Chicken Licken",
+      "type": "Hospitality"
+   },
+    {
+      "id": "39",
+      "name": "The Landmark Cocktail Bar",
+      "type": "Hospitality"
+   },
+    {
+      "id": "40",
+      "name": "Newscafe",
+      "type": "Hospitality"
+   },
+    {
+      "id": "41",
+      "name": "Birchwood Hotel",
+      "type": "Hospitality"
+   },
+    {
+      "id": "42",
+      "name": "Southern Sun Hotel",
+      "type": "Hospitality"
+   } 
   ]
