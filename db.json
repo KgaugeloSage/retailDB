@@ -1,4 +1,5 @@
-  "retails": [
+{  
+"retails": [
     {
       "id": "1",
       "name": "Shorprite",
@@ -210,3 +211,4 @@
       "type": "Hospitality"
    } 
   ]
+}
