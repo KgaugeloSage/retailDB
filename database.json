@@ -76,7 +76,7 @@
    },
     {
       "id": "16",
-      "name": "BMW East Rand",
+      "name": "BMW",
       "type": "Auto Dealer"
    },
     {
@@ -86,18 +86,69 @@
    },
     {
       "id": "18",
-      "name": "VW Sandton",
+      "name": "Volkswagen",
       "type": "Auto Dealer"
    },
     {
       "id": "19",
-      "name": "Toyota Boksburg",
+      "name": "Toyota",
       "type": "Auto Dealer"
    },
     {
       "id": "20",
       "name": "A1 Supreme Auto",
       "type": "Auto Dealer"
-   }
+   },
+    {
+      "id": "21",
+      "name": "Sportscene",
+      "type": "Apparel"
+   },
+    {
+      "id": "22",
+      "name": "Markham",
+      "type": "Apparel"
+   },
+    {
+      "id": "23",
+      "name": "Mr Price",
+      "type": "Apparel"
+   },
+    {
+      "id": "24",
+      "name": "Pick n' Pay Clothing",
+      "type": "Apparel"
+   },
+    {
+      "id": "25",
+      "name": "Footgear",
+      "type": "Apparel"
+   },
+    {
+      "id": "26",
+      "name": "Hennes & Mauritz AB(H&M)",
+      "type": "Apparel"
+   },
+    {
+      "id": "27",
+      "name": "Lecoq Sportif",
+      "type": "Apparel"
+   },
+    {
+      "id": "28",
+      "name": "Mr Price Sports",
+      "type": "Apparel"
+   },
+    {
+      "id": "29",
+      "name": "SHESHA",
+      "type": "Apparel"
+   },
+    {
+      "id": "30",
+      "name": "Exact",
+      "type": "Apparel"
+   },
+    
     
   ]
