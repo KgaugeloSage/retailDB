@@ -26,11 +26,6 @@
       "type": "Grocery Store"
    },
    {
-      "id": "6",
-      "name": "Boxer Liqours",
-      "type": "Grocery Store"
-   },
-   {
       "id": "7",
       "name": "Pick 'n Pay",
       "type": "Grocery Store"
@@ -38,11 +33,6 @@
         {
       "id": "8",
       "name": "Pick 'n Pay Liqour",
-      "type": "Grocery Store"
-   },
-   {
-      "id": "9",
-      "name": "Spar",
       "type": "Grocery Store"
    },
    {
@@ -60,29 +50,15 @@
       "name": "Hirshs Auto",
       "type": "Auto Dealer"
    },
-    {
-      "id": "13",
-      "name": "CMH East Rand",
-      "type": "Auto Dealer"
-   },
+
     {
       "id": "14",
       "name": "Optimal Auto",
       "type": "Auto Dealer"
    },
     {
-      "id": "15",
-      "name": "Kondakov Cars",
-      "type": "Auto Dealer"
-   },
-    {
       "id": "16",
       "name": "BMW",
-      "type": "Auto Dealer"
-   },
-    {
-      "id": "17",
-      "name": "Mercedes Benz",
       "type": "Auto Dealer"
    },
     {
@@ -161,11 +137,6 @@
       "type": "Hospitality"
    },
     {
-      "id": "33",
-      "name": "iJump",
-      "type": "Hospitality"
-   },
-    {
       "id": "34",
       "name": "Mc Donalds",
       "type": "Hospitality"
@@ -178,11 +149,6 @@
     {
       "id": "36",
       "name": "KFC",
-      "type": "Hospitality"
-   },
-    {
-      "id": "37",
-      "name": "Debonirs",
       "type": "Hospitality"
    },
     {
