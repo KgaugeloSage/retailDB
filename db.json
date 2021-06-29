@@ -92,18 +92,8 @@
       "type": "Apparel"
    },
     {
-      "id": "24",
-      "name": "Pick n' Pay Clothing",
-      "type": "Apparel"
-   },
-    {
       "id": "25",
       "name": "Footgear",
-      "type": "Apparel"
-   },
-    {
-      "id": "26",
-      "name": "Hennes & Mauritz AB(H&M)",
       "type": "Apparel"
    },
     {
@@ -114,16 +104,6 @@
     {
       "id": "28",
       "name": "Mr Price Sports",
-      "type": "Apparel"
-   },
-    {
-      "id": "29",
-      "name": "SHESHA",
-      "type": "Apparel"
-   },
-    {
-      "id": "30",
-      "name": "Exact",
       "type": "Apparel"
    },
     {
@@ -139,11 +119,6 @@
     {
       "id": "34",
       "name": "Mc Donalds",
-      "type": "Hospitality"
-   },
-    {
-      "id": "35",
-      "name": "Rocca Mamas",
       "type": "Hospitality"
    },
     {
