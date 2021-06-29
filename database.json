@@ -1,22 +1,103 @@
-  "login": [
+  "retails": [
     {
-      "id": "Bello",
-      "password": "sage",
-      "full_name": "Kgaugelo Ramaramel;a"
+      "id": "1",
+      "name": "Shorprite",
+      "type": "Grocery Store"
     },
     {
-      "id": "Bello2",
-      "password": "sage2",
-      "full_name": "Kgaugelo Ramaramela2"
+      "id": "2",
+      "name": "Shoprite Liquor",
+      "type": "Grocery Store"
+    },
+   {
+      "id": "3",
+      "name": "Checkers",
+      "type": "Grocery Store"
+   },
+   {
+      "id": "4",
+      "name": "Checkers Liqour",
+      "type": "Grocery Store"
     },
     {
-      "id": "Bello3",
-      "password": "sage3",
-      "full_name": "Kgaugelo Ramaramel;a3"
-    },
+      "id": "5",
+      "name": "Boxer",
+      "type": "Grocery Store"
+   },
+   {
+      "id": "6",
+      "name": "Boxer Liqours",
+      "type": "Grocery Store"
+   },
+   {
+      "id": "7",
+      "name": "Pick 'n Pay",
+      "type": "Grocery Store"
+   },
+        {
+      "id": "8",
+      "name": "Pick 'n Pay Liqour",
+      "type": "Grocery Store"
+   },
+   {
+      "id": "9",
+      "name": "Spar",
+      "type": "Grocery Store"
+   },
+   {
+      "id": "10",
+      "name": "Tops at Spar",
+      "type": "Grocery Store"
+   },    
     {
-      "id": "Bello4",
-      "password": "sage4",
-      "full_name": "Kgaugelo Ramaramel;a2"
-    }
+      "id": "11",
+      "name": "Auto Eternity",
+      "type": "Auto Dealer"
+   },
+    {
+      "id": "12",
+      "name": "Hirshs Auto",
+      "type": "Auto Dealer"
+   },
+    {
+      "id": "13",
+      "name": "CMH East Rand",
+      "type": "Auto Dealer"
+   },
+    {
+      "id": "14",
+      "name": "Optimal Auto",
+      "type": "Auto Dealer"
+   },
+    {
+      "id": "15",
+      "name": "Kondakov Cars",
+      "type": "Auto Dealer"
+   },
+    {
+      "id": "16",
+      "name": "BMW East Rand",
+      "type": "Auto Dealer"
+   },
+    {
+      "id": "17",
+      "name": "Mercedes Benz",
+      "type": "Auto Dealer"
+   },
+    {
+      "id": "18",
+      "name": "VW Sandton",
+      "type": "Auto Dealer"
+   },
+    {
+      "id": "19",
+      "name": "Toyota Boksburg",
+      "type": "Auto Dealer"
+   },
+    {
+      "id": "20",
+      "name": "A1 Supreme Auto",
+      "type": "Auto Dealer"
+   }
+    
   ]
