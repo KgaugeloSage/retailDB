@@ -3,159 +3,189 @@
     {
       "id": "1",
       "name": "Shorprite",
-      "type": "Grocery Store"
+      "type": "Grocery Store",
+      "description" : "Food and beverage stores, including grocery and liquor stores"
     },
     {
       "id": "2",
       "name": "Shoprite Liquor",
-      "type": "Grocery Store"
+      "type": "Grocery Store",
+      "description" : "Food and beverage stores, including grocery and liquor stores"
     },
    {
       "id": "3",
       "name": "Checkers",
-      "type": "Grocery Store"
+      "type": "Grocery Store",
+     "description" : "Food and beverage stores, including grocery and liquor stores"
    },
    {
       "id": "4",
       "name": "Checkers Liqour",
-      "type": "Grocery Store"
+      "type": "Grocery Store",
+     "description" : "Food and beverage stores, including grocery and liquor stores"
     },
     {
       "id": "5",
       "name": "Boxer",
-      "type": "Grocery Store"
+      "type": "Grocery Store",
+      "description" : "Food and beverage stores, including grocery and liquor stores"
    },
    {
       "id": "7",
       "name": "Pick 'n Pay",
-      "type": "Grocery Store"
+      "type": "Grocery Store",
+     "description" : "Food and beverage stores, including grocery and liquor stores"
    },
         {
       "id": "8",
       "name": "Pick 'n Pay Liqour",
-      "type": "Grocery Store"
+      "type": "Grocery Store",
+          "description" : "Food and beverage stores, including grocery and liquor stores"
    },
    {
       "id": "10",
       "name": "Tops at Spar",
-      "type": "Grocery Store"
+      "type": "Grocery Store",
+     "description" : "Food and beverage stores, including grocery and liquor stores"
    }
 ],
   "auto_dealers": [
     {
       "id": "11",
       "name": "Auto Eternity",
-      "type": "Auto Dealer"
+      "type": "Auto Dealer",
+      "description" : "Auto parts, new and used vehicle sales"
    },
     {
       "id": "12",
       "name": "Hirshs Auto",
-      "type": "Auto Dealer"
+      "type": "Auto Dealer",
+      "description" : "Auto parts, new and used vehicle sales"
    },
 
     {
       "id": "14",
       "name": "Optimal Auto",
-      "type": "Auto Dealer"
+      "type": "Auto Dealer",
+      "description" : "Auto parts, new and used vehicle sales"
    },
     {
       "id": "16",
       "name": "BMW",
-      "type": "Auto Dealer"
+      "type": "Auto Dealer",
+      "description" : "Auto parts, new and used vehicle sales"
    },
     {
       "id": "18",
       "name": "Volkswagen",
-      "type": "Auto Dealer"
+      "type": "Auto Dealer",
+      "description" : "Auto parts, new and used vehicle sales"
    },
     {
       "id": "19",
       "name": "Toyota",
-      "type": "Auto Dealer"
+      "type": "Auto Dealer",
+      "description" : "Auto parts, new and used vehicle sales"
    },
     {
       "id": "20",
       "name": "A1 Supreme Auto",
-      "type": "Auto Dealer"
+      "type": "Auto Dealer",
+      "description" : "Auto parts, new and used vehicle sales"
    }
   ],
   "apparel": [
     {
       "id": "21",
       "name": "Sportscene",
-      "type": "Apparel"
+      "type": "Apparel",
+      "description" : "Such as specialty clothing stores"
    },
     {
       "id": "22",
       "name": "Markham",
-      "type": "Apparel"
+      "type": "Apparel",
+      "description" : "Such as specialty clothing stores"
    },
     {
       "id": "23",
       "name": "Mr Price",
-      "type": "Apparel"
+      "type": "Apparel",
+      "description" : "Such as specialty clothing stores"
    },
     {
       "id": "25",
       "name": "Footgear",
-      "type": "Apparel"
+      "type": "Apparel",
+      "description" : "Such as specialty clothing stores"
    },
     {
       "id": "27",
       "name": "Lecoq Sportif",
-      "type": "Apparel"
+      "type": "Apparel",
+      "description" : "Such as specialty clothing stores"
    },
     {
       "id": "28",
       "name": "Mr Price Sports",
-      "type": "Apparel"
+      "type": "Apparel",
+      "description" : "Such as specialty clothing stores"
    }
   ],
   "hospitality": [
     {
       "id": "31",
       "name": "Gold Reef City",
-      "type": "Hospitality"
+      "type": "Hospitality",
+      "description": "Leisure, including hotels, restaurants, and bars"
    },
     {
       "id": "32",
       "name": "Carnival City",
-      "type": "Hospitality"
+      "type": "Hospitality",
+      "description": "Leisure, including hotels, restaurants, and bars"
    },
     {
       "id": "34",
       "name": "Mc Donalds",
-      "type": "Hospitality"
+      "type": "Hospitality",
+      "description": "Leisure, including hotels, restaurants, and bars"
    },
     {
       "id": "36",
       "name": "KFC",
-      "type": "Hospitality"
+      "type": "Hospitality",
+      "description": "Leisure, including hotels, restaurants, and bars"
    },
     {
       "id": "38",
       "name": "Chicken Licken",
-      "type": "Hospitality"
+      "type": "Hospitality",
+      "description": "Leisure, including hotels, restaurants, and bars"
    },
     {
       "id": "39",
       "name": "The Landmark Cocktail Bar",
-      "type": "Hospitality"
+      "type": "Hospitality",
+      "description": "Leisure, including hotels, restaurants, and bars"
    },
     {
       "id": "40",
       "name": "Newscafe",
-      "type": "Hospitality"
+      "type": "Hospitality",
+      "description": "Leisure, including hotels, restaurants, and bars"
    },
     {
       "id": "41",
       "name": "Birchwood Hotel",
-      "type": "Hospitality"
+      "type": "Hospitality",
+      "description": "Leisure, including hotels, restaurants, and bars"
    },
     {
       "id": "30",
       "name": "Southern Sun Hotel",
-      "type": "Hospitality"
+      "type": "Hospitality",
+      "description": "Leisure, including hotels, restaurants, and bars"
    } 
   ]
 }
