@@ -1,191 +1,220 @@
 {
-"grocery_stores": [
+  "grocery_stores": [
     {
       "id": "1",
       "name": "Shorprite",
       "type": "Grocery Store",
-      "description" : "Food and beverage stores, including grocery and liquor stores"
+      "description": "Food and beverage stores, including grocery and liquor stores",
+      "selected": false
     },
     {
       "id": "2",
       "name": "Shoprite Liquor",
       "type": "Grocery Store",
-      "description" : "Food and beverage stores, including grocery and liquor stores"
+      "description": "Food and beverage stores, including grocery and liquor stores",
+      "selected":false
     },
-   {
+    {
       "id": "3",
       "name": "Checkers",
       "type": "Grocery Store",
-     "description" : "Food and beverage stores, including grocery and liquor stores"
-   },
-   {
+      "description": "Food and beverage stores, including grocery and liquor stores",
+      "selected": false
+    },
+    {
       "id": "4",
       "name": "Checkers Liqour",
       "type": "Grocery Store",
-     "description" : "Food and beverage stores, including grocery and liquor stores"
+      "description": "Food and beverage stores, including grocery and liquor stores",
+      "selected": false
     },
     {
       "id": "5",
       "name": "Boxer",
       "type": "Grocery Store",
-      "description" : "Food and beverage stores, including grocery and liquor stores"
-   },
-   {
+      "description": "Food and beverage stores, including grocery and liquor stores",
+      "selected": false
+    },
+    {
       "id": "7",
       "name": "Pick 'n Pay",
       "type": "Grocery Store",
-     "description" : "Food and beverage stores, including grocery and liquor stores"
-   },
-        {
+      "description": "Food and beverage stores, including grocery and liquor stores",
+      "selected": false
+    },
+    {
       "id": "8",
       "name": "Pick 'n Pay Liqour",
       "type": "Grocery Store",
-          "description" : "Food and beverage stores, including grocery and liquor stores"
-   },
-   {
+      "description": "Food and beverage stores, including grocery and liquor stores",
+      "selected": false
+    },
+    {
       "id": "10",
       "name": "Tops at Spar",
       "type": "Grocery Store",
-     "description" : "Food and beverage stores, including grocery and liquor stores"
-   }
-],
+      "description": "Food and beverage stores, including grocery and liquor stores",
+      "selected" : false
+    }
+  ],
   "auto_dealers": [
     {
       "id": "11",
       "name": "Auto Eternity",
       "type": "Auto Dealer",
-      "description" : "Auto parts, new and used vehicle sales"
-   },
+      "description": "Auto parts, new and used vehicle sales",
+      "selected" : false
+    },
     {
       "id": "12",
       "name": "Hirshs Auto",
       "type": "Auto Dealer",
-      "description" : "Auto parts, new and used vehicle sales"
-   },
-
+      "description": "Auto parts, new and used vehicle sales",
+      "selected" : false
+    },
     {
       "id": "14",
       "name": "Optimal Auto",
       "type": "Auto Dealer",
-      "description" : "Auto parts, new and used vehicle sales"
-   },
+      "description": "Auto parts, new and used vehicle sales",
+      "selected" : false
+    },
     {
       "id": "16",
       "name": "BMW",
       "type": "Auto Dealer",
-      "description" : "Auto parts, new and used vehicle sales"
-   },
+      "description": "Auto parts, new and used vehicle sales",
+      "selected" : false
+    },
     {
       "id": "18",
       "name": "Volkswagen",
       "type": "Auto Dealer",
-      "description" : "Auto parts, new and used vehicle sales"
-   },
+      "description": "Auto parts, new and used vehicle sales",
+      "selected" : false
+    },
     {
       "id": "19",
       "name": "Toyota",
       "type": "Auto Dealer",
-      "description" : "Auto parts, new and used vehicle sales"
-   },
+      "description": "Auto parts, new and used vehicle sales",
+      "selected" : false
+    },
     {
       "id": "20",
       "name": "A1 Supreme Auto",
       "type": "Auto Dealer",
-      "description" : "Auto parts, new and used vehicle sales"
-   }
+      "description": "Auto parts, new and used vehicle sales",
+      "selected" : false
+    }
   ],
   "apparel": [
     {
       "id": "21",
       "name": "Sportscene",
       "type": "Apparel",
-      "description" : "Such as specialty clothing stores"
-   },
+      "description": "Such as specialty clothing stores",
+      "selected" : false
+    },
     {
       "id": "22",
       "name": "Markham",
       "type": "Apparel",
-      "description" : "Such as specialty clothing stores"
-   },
+      "description": "Such as specialty clothing stores",
+      "selected" : false
+    },
     {
       "id": "23",
       "name": "Mr Price",
       "type": "Apparel",
-      "description" : "Such as specialty clothing stores"
-   },
+      "description": "Such as specialty clothing stores",
+      "selected" : false
+    },
     {
       "id": "25",
       "name": "Footgear",
       "type": "Apparel",
-      "description" : "Such as specialty clothing stores"
-   },
+      "description": "Such as specialty clothing stores",
+      "selected" : false
+    },
     {
       "id": "27",
       "name": "Lecoq Sportif",
       "type": "Apparel",
-      "description" : "Such as specialty clothing stores"
-   },
+      "description": "Such as specialty clothing stores",
+      "selected" : false
+    },
     {
       "id": "28",
       "name": "Mr Price Sports",
       "type": "Apparel",
-      "description" : "Such as specialty clothing stores"
-   }
+      "description": "Such as specialty clothing stores",
+      "selected" : false
+    }
   ],
   "hospitality": [
     {
       "id": "31",
       "name": "Gold Reef City",
       "type": "Hospitality",
-      "description": "Leisure, including hotels, restaurants, and bars"
-   },
+      "description": "Leisure, including hotels, restaurants, and bars",
+      "selected" : false
+    },
     {
       "id": "32",
       "name": "Carnival City",
       "type": "Hospitality",
-      "description": "Leisure, including hotels, restaurants, and bars"
-   },
+      "description": "Leisure, including hotels, restaurants, and bars",
+      "selected" : false
+    },
     {
       "id": "34",
       "name": "Mc Donalds",
       "type": "Hospitality",
-      "description": "Leisure, including hotels, restaurants, and bars"
-   },
+      "description": "Leisure, including hotels, restaurants, and bars",
+      "selected" : false
+    },
     {
       "id": "36",
       "name": "KFC",
       "type": "Hospitality",
-      "description": "Leisure, including hotels, restaurants, and bars"
-   },
+      "description": "Leisure, including hotels, restaurants, and bars",
+      "selected" : false
+    },
     {
       "id": "38",
       "name": "Chicken Licken",
       "type": "Hospitality",
-      "description": "Leisure, including hotels, restaurants, and bars"
-   },
+      "description": "Leisure, including hotels, restaurants, and bars",
+      "selected" : false
+    },
     {
       "id": "39",
       "name": "The Landmark Cocktail Bar",
       "type": "Hospitality",
-      "description": "Leisure, including hotels, restaurants, and bars"
-   },
+      "description": "Leisure, including hotels, restaurants, and bars",
+      "selected" : false
+    },
     {
       "id": "40",
       "name": "Newscafe",
       "type": "Hospitality",
-      "description": "Leisure, including hotels, restaurants, and bars"
-   },
+      "description": "Leisure, including hotels, restaurants, and bars",
+      "selected" : false
+    },
     {
       "id": "41",
       "name": "Birchwood Hotel",
       "type": "Hospitality",
-      "description": "Leisure, including hotels, restaurants, and bars"
-   },
+      "description": "Leisure, including hotels, restaurants, and bars",
+      "selected" : false
+    },
     {
       "id": "30",
       "name": "Southern Sun Hotel",
       "type": "Hospitality",
-      "description": "Leisure, including hotels, restaurants, and bars"
-   } 
+      "description": "Leisure, including hotels, restaurants, and bars",
+      "selected" : false
+    }
   ]
 }
